@@ -10,7 +10,7 @@ For my application, I decided I am going to change it to have a inventory system
 ![ER Diagram](https://raw.githubusercontent.com/Eli9Saavedra/CST391Public/main/Milestone2/Images/Images/ER%20Diagram.png)
 
 ## Sitemap
-![Sitemap](https://raw.githubusercontent.com/Eli9Saavedra/cst391/main/Milestone%20Project/img/Sitemap.jpg)
+![Sitemap](https://raw.githubusercontent.com/Eli9Saavedra/CST391Public/main/Milestone2/Images/Images/Sitemap.png)
 
 ## Wireframes
 ![Wireframe 1](https://raw.githubusercontent.com/Eli9Saavedra/cst391/main/Milestone%20Project/img/Wireframe1.png)
