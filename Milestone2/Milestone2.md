@@ -14,13 +14,12 @@ For my application, I decided I am going to change it to have a inventory system
 
 ## Wireframes
 ![Wireframe 1](https://raw.githubusercontent.com/Eli9Saavedra/cst391/main/Milestone%20Project/img/Wireframe1.png)
-![Wireframe 2](https://raw.githubusercontent.com/Eli9Saavedra/cst391/main/Milestone%20Project/img/Wireframe2.png)
-![Wireframe 3](https://raw.githubusercontent.com/Eli9Saavedra/cst391/main/Milestone%20Project/img/Wireframe3.png)
 
 ## UML
-![UML](https://raw.githubusercontent.com/Eli9Saavedra/cst391/main/Milestone%20Project/img/UML.jpg)
+![UML](https://raw.githubusercontent.com/Eli9Saavedra/CST391Public/main/Milestone2/Images/Images/Wireframe%20(1).png)
 
 ## Risks
     - Time Management
     - Understanding of JavaScript Tools
     - Following the requirements from the rubric
+
