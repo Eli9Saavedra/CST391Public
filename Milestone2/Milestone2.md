@@ -4,7 +4,7 @@
 For my application, I decided I am going to change it to have a inventory system of jerseys. The applicaiton will have where you an Create, Read, Update, and Delete Jerseys. You won't need to sign in, as you will have straight access to the features of being able to see hwo many jerseys you have and insert or remove them.
 
 ## Functionality Requirements
-![User Stories]()
+![User Stories](https://raw.githubusercontent.com/Eli9Saavedra/CST391Public/main/Milestone2/Images/Images/User%20Stories.png)
 
 ## ER Diagram
 ![ER Diagram](https://raw.githubusercontent.com/Eli9Saavedra/cst391/main/Milestone%20Project/img/ER%20Diagram.png)
