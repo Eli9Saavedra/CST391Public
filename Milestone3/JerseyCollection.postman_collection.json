@@ -1,0 +1,126 @@
+{
+	"info": {
+		"_postman_id": "73117616-3a2f-4442-8c09-e8131dc133f6",
+		"name": "JerseyCollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28918997"
+	},
+	"item": [
+		{
+			"name": "Create New Jersey",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"name\": \"Lionel Messi\",\r\n  \"number\": \"10\",\r\n  \"team\": \"Argentina\",\r\n  \"sport\": \"Soccer\",\r\n  \"league\": \"FIFA Nationa Team\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/jerseys",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"jerseys"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get All Jersyes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/jerseys",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"jerseys"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Jersey By ID",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/jerseys/2",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"jerseys",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Jersey",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"name\": \"Jimmy Butler\",\r\n  \"number\": \"10\",\r\n  \"team\": \"Miami Heat\",\r\n  \"sport\": \"Basketball\",\r\n  \"league\": \"NBA\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/jerseys/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"jerseys",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:5000/jerseys/4",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/jerseys/4",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"jerseys",
+						"4"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
