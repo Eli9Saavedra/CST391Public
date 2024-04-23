@@ -2,9 +2,8 @@
 
 ## Watch the Screencast
 
-Click on the link below to watch my screencast:
+[Click here to watch the Loom video](https://www.loom.com/share/b83fe27cf26042d7b27be4e89e63981b?sid=4cb60d75-ecc6-471a-8080-d8b029b88fbc)
 
-[![Watch the Screencast](URL_OF_YOUR_SCREENCAST)](URL_OF_YOUR_SCREENCAST)
 
 Thank you for watching!
 
