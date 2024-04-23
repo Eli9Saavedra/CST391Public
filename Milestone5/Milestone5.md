@@ -5,11 +5,11 @@
 ***https://www.loom.com/share/55681236f9364b969bf15e8b8b1cbb3e?sid=9e6e2931-ebcc-4696-afea-1081a623fc76***
 
 ## URL to the GIT Repository
-***https://github.com/Eli9Saavedra/CST391/tree/main/MilestoneProjects/MilestoneProject1***
+***https://github.com/Eli9Saavedra/CST391/tree/main/MilestoneProjects/ReactApp/jersey-inventory-frontend***
 
 
 ## Introduction
-For my application, I decided I am going to change it to have a inventory system of jerseys. The applicaiton will have where you an Create, Read, Update, and Delete Jerseys. You won't need to sign in, as you will have straight access to the features of being able to see hwo many jerseys you have and insert or remove them.
+For my application, I created a React Frontend for the Jersey Inventory and made a nice easy user interface. Every feature for the CRUD operations worked perfectly and smooth. Hope you enjoy the screencast as this has been my favorite project in this class.
 
 ## Functionality Requirements
 ![User Stories](https://raw.githubusercontent.com/Eli9Saavedra/CST391Public/main/Milestone2/Images/Images/User%20Stories.png)
